@@ -1,1 +1,1 @@
-Udemy web development Codes that i wrote with the resources used.
+Udemy web development course Codes that I wrote with the resources used.
